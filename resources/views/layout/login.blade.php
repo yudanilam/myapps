@@ -4,7 +4,7 @@
 <head>
     <!-- Basic Page Info -->
     <meta charset="utf-8" />
-    <title>{{ $title ?? config('app.name', 'Aplikasi Sistem Informasi') }}</title>
+    <title>{{ $title ?? config('app.name', 'Aplikasi Sistem Informasi Testing ') }}</title>
 
     <!-- Site favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('vendors/images/apple-touch-icon.png') }}" />
